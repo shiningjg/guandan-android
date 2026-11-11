@@ -1,0 +1,26 @@
+# Built application files
+*.apk
+*.aab
+*.aar
+*.ap_
+
+# Signing keystore (never commit; contains the release key)
+*.jks
+*.keystore
+
+# Local SDK / config
+local.properties
+.gradle/
+.kotlin/
+build/
+*/build/
+captures/
+
+# IDE
+*.iml
+.idea/
+.DS_Store
+
+# Cloud IDE / CodeBuddy workspace data
+.cloudstudio
+.codebuddy/

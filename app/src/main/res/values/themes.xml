@@ -1,0 +1,9 @@
+<resources>
+    <!-- 无 ActionBar；深绿背景避免启动白闪，系统栏配色与牌桌一致 -->
+    <style name="Theme.GuanDan" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#FF0B6B3A</item>
+        <item name="android:statusBarColor">#FF0A4F2C</item>
+        <item name="android:navigationBarColor">#FF0A4F2C</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
